@@ -5,7 +5,7 @@ Sou um desenvolvedor **Back-End** em formação, com muita vontade de aprender, 
 ## 🚀 Sobre mim
 
 - 🧑‍💻 Desenvolvedor Back-End em início de carreira  
-- 🎓 Curso Profissionalizante de Back-End (SENAI) — **concluído**  
+- 🎓 Curso de Back-End (SENAI) 
 - 🛠️ Foco em APIs REST, lógica de programação, versionamento e boas práticas  
 - 🌱 Em constante aprendizado e evolução
 

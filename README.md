@@ -1,37 +1,32 @@
----
+# 👋 Olá! Eu sou o João Vitor
 
-🚀 João Vitor | Back-End Developer em construção
+Sou um desenvolvedor **Back-End** em formação, com muita vontade de aprender, crescer na área da tecnologia e contribuir com projetos reais.
 
-👋 Olá! Sou João Vitor, desenvolvedor em formação com foco em Back-End. Estou trilhando meu caminho na programação com muita dedicação e vontade de crescer na área da tecnologia.
+## 🚀 Sobre mim
 
-🎓 Cursos e Formação:
+- 🧑‍💻 Desenvolvedor Back-End em início de carreira  
+- 🎓 Curso Profissionalizante de Back-End (SENAI) — **concluído**  
+- 🛠️ Foco em APIs REST, lógica de programação, versionamento e boas práticas  
+- 🌱 Em constante aprendizado e evolução
 
-Curso Profissionalizante de Back-End | SENAI (concluído)
+## 💡 Tecnologias e Ferramentas
 
-Fundamentos de programação e lógica
+- **Linguagens:** JavaScript (Node.js), HTML, CSS  
+- **Back-End:** Node.js, Express (iniciando)  
+- **Banco de Dados:** Noções de SQL e MongoDB  
+- **Ferramentas:** Git, GitHub, VSCode, Postman
 
-Práticas com Git, GitHub e versionamento
+## 📌 Objetivos
 
-Criação de APIs RESTful com Node.js
+- Desenvolver projetos práticos para consolidar meu conhecimento  
+- Contribuir com projetos open-source  
+- Conseguir minha primeira oportunidade como desenvolvedor  
 
+## 📫 Contato
 
-🧠 Conhecimentos:
-
-Linguagens: JavaScript (Node.js), HTML, CSS
-
-Ferramentas: Git, GitHub, VSCode, Postman
-
-Banco de Dados: Noções básicas de SQL e MongoDB
-
-
-💡 Objetivo: evoluir do básico ao avançado com projetos reais e colaborativos, focando em soluções funcionais, limpas e bem estruturadas.
-
-📌 Buscando: oportunidades de estágio, projetos open-source, networking e experiências práticas para crescer como desenvolvedor.
-
-📬 Me chama para conversar, codar junto ou trocar ideias!
-📞 WhatsApp: (19) 99535-9887
-📧 E-mail: joaofiais2500@gmail.com
-
+- 📧 Email: [joaofiais2500@gmail.com](mailto:joaofiais2500@gmail.com)  
+- 📱 WhatsApp: (19) 99535-9887  
 
 ---
 
+**Obrigado por visitar meu perfil!** Vamos crescer juntos na programação 🚀
